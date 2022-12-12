@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merveillevaneck
-- 👀 I’m interested in React and NodeJS Fullstack cross platform React Native applications.
+- 👀 I’m interested in React and NodeJS Fullstack web apps and cross platform React Native applications.
 - 🌱 I’m currently learning Trpc and Bit
 -  I’m looking to collaborate on reusable react component packges, scaffolding cli's and react native applications!
 - 📫 How to reach me merveillevaneck@gmail.com
