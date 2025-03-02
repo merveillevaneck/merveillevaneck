@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @merveillevaneck
-- 👀 I’m interested in React and NodeJS Fullstack web apps and cross platform React Native applications.
-- 🌱 I’m currently learning Trpc and Bit
--  I’m looking to collaborate on reusable react component packges, scaffolding cli's and react native applications!
-- 📫 How to reach me merveillevaneck@gmail.com
+- 👀 I’m in love with all things clojure, react and react native!
+- 📫 How to reach me: merveillevaneck@gmail.com, clojurians slack, za-tech slack, linkedin.
 
 <!---
 merveillevaneck/merveillevaneck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
